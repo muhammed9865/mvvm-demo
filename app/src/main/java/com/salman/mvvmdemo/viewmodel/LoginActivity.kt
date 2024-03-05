@@ -34,8 +34,6 @@ class LoginActivity : ComponentActivity() {
         setContentView(binding.root)
         setListeners()
         observeDataStateUpdates()
-        // observeSealedStateUpdates()
-        // Main, Default, I/O
 
     }
 
